@@ -14,18 +14,19 @@
 - [Growing](#growing)
 - [Labs](#labs)
 - [Lights](#lights)
+- [Miscellaneous](#miscellaneous)
 - [Organizations](#orginizations)
 - [Patents](#patents)
+- [Related](#related)
 - [Science/ Research](#science-research)
 - [Seeds](#seeds)
 - [Sites](#sites)
-- [Solventless](sSolventless)
 - [Soil/ Composts/ Nutrients](#soil-composts-nutrients)
+- [Solventless](sSolventless)
+- [States](states)
 - [Technology](#technology)
 - [Wholesale](#wholesale)
 - [Wiki](#wiki)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
 
 
 ## Articles
@@ -64,10 +65,16 @@
 ## Lights
 - [Test Link](https://github.com) - Test Link
 
+## Miscellaneous
+- [Test Link](https://github.com) - Test Link
+
 ## Orginizations
 - [Test Link](https://github.com) - Test Link
 
 ## Patents
+- [Test Link](https://github.com) - Test Link
+
+## Related
 - [Test Link](https://github.com) - Test Link
 
 ## Science/ Research
@@ -94,11 +101,6 @@
 ## Wiki
 - [Test Link](https://github.com) - Test Link
 
-## Miscellaneous
-- [Test Link](https://github.com) - Test Link
-
-## Related
-- [Test Link](https://github.com) - Test Link
 
 ## License
 
